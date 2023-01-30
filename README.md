@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?fontFamily=Unbounded&lineCount=2&theme=catppuccin_mocha&line1=JavaScript,JavaScript,a67ba5;React,React,e69eac;html5,html5,f5b18a;Three.js,Three.js,f4e2b6;&line2=Next.js,Next.js,abe3a3;Express,Express,9ce3d5;Google%20Cloud,Google%20Cloud,99dde7;GitHub,GitHub,7ec8eb;)](https://github-readme-tech-stack.vercel.app/api/cards?fontFamily=Unbounded&lineCount=2&theme=catppuccin_mocha&line1=JavaScript,JavaScript,a67ba5;React,React,e69eac;html5,html5,f5b18a;Three.js,Three.js,f4e2b6;&line2=Next.js,Next.js,abe3a3;Express,Express,9ce3d5;Google%20Cloud,Google%20Cloud,99dde7;GitHub,GitHub,7ec8eb;)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?fontFamily=Unbounded&lineCount=2&theme=catppuccin_mocha&gap=3&line1=JavaScript,JavaScript,a67ba5;React,React,e69eac;html5,html5,f5b18a;Three.js,Three.js,f4e2b6;&line2=Next.js,Next.js,abe3a3;Express,Express,9ce3d5;Google%20Cloud,Google%20Cloud,99dde7;GitHub,GitHub,7ec8eb;)](https://github-readme-tech-stack.vercel.app/api/cards?fontFamily=Unbounded&lineCount=2&theme=catppuccin_mocha&gap=3&line1=JavaScript,JavaScript,a67ba5;React,React,e69eac;html5,html5,f5b18a;Three.js,Three.js,f4e2b6;&line2=Next.js,Next.js,abe3a3;Express,Express,9ce3d5;Google%20Cloud,Google%20Cloud,99dde7;GitHub,GitHub,7ec8eb;)
 
 
 <!--
